@@ -1,4 +1,4 @@
-# GRcalc
+# gracle
 
 A simple Python tool to compute Christoffel symbols from a given metric using SymPy.
 
